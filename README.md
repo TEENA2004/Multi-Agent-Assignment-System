@@ -1,6 +1,6 @@
 # 🎓 IIS EduGrade AI — Multi-Agent Assessment System
 
-> **Major Project | B.Tech CSE | IIS University, Jaipur | 2025–26**
+> **Major Project | BSc(H)-Data Anaytics and AI CSE |  IIS University, Jaipur | 2025–26**
 
 An AI-powered assessment system for teachers to evaluate student answer sheets using multi-agent AI pipelines. Built with Flask, Groq LLM API, and SQLite.
 
