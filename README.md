@@ -1,6 +1,6 @@
 # 🎓 EvLax AI — Multi-Agent Assessment System |  Major Project 2026
 
-> **Major Project | BSc(H)-Data Anaytics and AI CSE |  IIS University, Jaipur | 2025–26**
+> **Major Project | BSc (Hons.) Data Analytics & AI |  IIS University, Jaipur | 2025–26**
 
 An AI-powered assessment system for teachers to evaluate student answer sheets using multi-agent AI pipelines. Built with Flask, Groq LLM API, and SQLite.
 
@@ -66,57 +66,15 @@ IIS EduGrade AI helps teachers at IIS University automate the process of:
 
 ---
 
-## 🚀 How to Run Locally
+## 📁 Repository Contents
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/IIS-EduGrade-AI.git
-cd IIS-EduGrade-AI
-```
+| File / Folder | Description |
+|---|---|
+| `README.md` | Project overview and documentation |
+| `requirements.txt` | Python dependencies |
+| `Docs/` | Project report and presentation (Word + PPT) |
+| `screenshots/` | System interface previews |
 
-### 2. Install dependencies
-```bash
-pip install flask groq PyMuPDF openpyxl pillow flask-session
-```
-
-### 3. Add your Groq API Key
-Open `app.py` and replace:
-```python
-groq_client = Groq(api_key="YOUR_GROQ_API_KEY_HERE")
-```
-Get free API key at: https://console.groq.com
-
-### 4. Run the app
-```bash
-python app.py
-```
-
-### 5. Open in browser
-```
-http://127.0.0.1:5000
-```
-
----
-
-## 📁 Project Structure
-
-```
-IIS-EduGrade-AI/
-├── app.py                        ← Main backend (Flask + Groq AI)
-├── requirements.txt              ← Python dependencies
-├── README.md
-├── .gitignore
-├── templates/
-│   ├── home.html
-│   ├── login.html
-│   ├── register.html
-│   ├── assess.html               ← Question Analyzer tab
-│   ├── answer_evaluator.html     ← Answer Evaluator tab
-│   ├── level_detector.html       ← Level Detector tab
-│   ├── feedback_generator.html   ← Feedback Generator tab
-│   └── student_dashboard.html    ← Student login view
-└── static/
-    └── iisu_logo.jpg
 ```
 
 ---
