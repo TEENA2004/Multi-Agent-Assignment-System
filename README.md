@@ -109,10 +109,12 @@ IIS EduGrade AI helps teachers at IIS University automate the process of:
 **Teena Sharma**
 Bsc(H) Data Analyst and AI  — IIS University, Jaipur
 Major Project 2025–26
+---
+---
 
-> **Note:** Source code is kept private. 
+> ****Note:** Source code is kept private. 
 > This repository contains project documentation and reports only.
-> For code review or demo access, please connect via LinkedIn.
+> For code review or demo access, please connect via LinkedIn.**
 
 ---
 
