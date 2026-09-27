@@ -1,4 +1,4 @@
-# 🎓 IIS EduGrade AI — Multi-Agent Assessment System
+# 🎓 EvLax AI — Multi-Agent Assessment System |  Major Project 2026
 
 > **Major Project | BSc(H)-Data Anaytics and AI CSE |  IIS University, Jaipur | 2025–26**
 
@@ -149,7 +149,7 @@ IIS-EduGrade-AI/
 ## 👩‍💻 Developer
 
 **Teena Sharma**
-B.Tech CSE — IIS University, Jaipur
+Bsc(H) Data Analyst and AI  — IIS University, Jaipur
 Major Project 2025–26
 
 ---
